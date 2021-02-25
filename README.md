@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working as a Development Engineer with almost 3 years of experience with specialisation in UI Development using React
+- 🌱 I’m currently learning Golang 
+- 📫 How to reach me: monicaacha2103@gmail.com
 
+Thank you for visiting my Github Profile 
 <!--
 **MonicaAcha2103/MonicaAcha2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
