@@ -1,7 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a Development Engineer with almost 3 years of experience with specialisation in UI Development using React
 - 🌱 I’m currently learning Golang 
-- 📫 How to reach me: monicaacha2103@gmail.com
+- 📫 How to reach me: 
+monicaacha2103@gmail.com
+portfolio-monica.herokuapp.com
 
 Thank you for visiting my Github Profile 
 <!--
