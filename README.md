@@ -5,7 +5,8 @@
 portfolio-monica.herokuapp.com
 monicaacha2103@gmail.com
 
-Thank you for visiting my Github Profile 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monicaacha2103&layout=compact)][github]
+
 <!--
 **MonicaAcha2103/MonicaAcha2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
