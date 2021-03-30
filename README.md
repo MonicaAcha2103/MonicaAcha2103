@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a Development Engineer with almost 3 years of experience with specialisation in UI Development using React
-- 🌱 I’m currently learning Golang 
+- 🌱 I’m currently learning Typescript 
 - 📫 How to reach me: 
 portfolio-monica.herokuapp.com
 monicaacha2103@gmail.com
